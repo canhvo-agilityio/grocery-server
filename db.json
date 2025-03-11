@@ -122,5 +122,124 @@
       ],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
     }
+  ],
+  "products": [
+    {
+      "id": "dfgsdfsd123123",
+      "name": "CeraVe",
+      "newPrice": 50,
+      "oldPrice": 25,
+      "discount": 50,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 6,
+      "images": [
+        "https://i.pinimg.com/474x/71/ad/e6/71ade65e9dc57a15cf14b13e88b29ae5.jpg",
+        "https://i.pinimg.com/474x/b4/de/e2/b4dee28618aad189ae7b6df1b331f9ec.jpg",
+        "https://i.pinimg.com/474x/70/2d/2f/702d2f6a2219ab40b20b4150a46aac53.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    },
+    {
+      "id": "342dsad5243",
+      "name": "Sourdough",
+      "newPrice": 20,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 1,
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m35t0j6yevixe8.webp",
+        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m45jdforeozr43.webp",
+        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2w2fmo4co3494.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    },
+    {
+      "id": "r5gf2413",
+      "name": "Potato",
+      "newPrice": 30,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 2,
+      "images": [
+        "https://i.pinimg.com/474x/23/c3/f4/23c3f4ddf10f07fea7c7e84821e96dfb.jpg",
+        "https://i.pinimg.com/474x/78/64/30/78643058a235e88f6adec398811abfc7.jpg",
+        "https://i.pinimg.com/474x/f6/46/29/f646291b39edd19891884d71a837c09f.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    },
+    {
+      "id": "dfg234rfwd",
+      "name": "Duck Egg",
+      "newPrice": 30,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 4,
+      "images": [
+        "https://i.pinimg.com/474x/9c/ab/14/9cab14006f3a9b4ffb25a2d6986ecc63.jpg",
+        "https://i.pinimg.com/474x/d1/3c/43/d13c43f5adc1789ee2507a7a2a5063d1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    },
+    {
+      "id": "sdf2r2esdf",
+      "name": "Apple",
+      "newPrice": 50,
+      "oldPrice": 25,
+      "discount": 50,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 3,
+      "images": [
+        "https://i.pinimg.com/474x/60/c3/dd/60c3dd2d6f24059a1fed2e9ba9ad43d7.jpg",
+        "https://i.pinimg.com/474x/53/b0/a4/53b0a4c1fac893bedbfe66b9a1f2be5c.jpg",
+        "https://i.pinimg.com/474x/e7/98/1e/e7981e4a9bda690577472ab201d4f094.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    },
+    {
+      "id": "sdfe1212",
+      "name": "Orange",
+      "newPrice": 20,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 3,
+      "images": [
+        "https://i.pinimg.com/474x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
+        "https://i.pinimg.com/474x/01/f9/0a/01f90a367906ba88e4fdfcfc7abeaa71.jpg",
+        "https://i.pinimg.com/474x/84/38/4c/84384c206062918bd04fc5349a163605.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    },
+    {
+      "id": "dfgsdfsd123123",
+      "name": "Coca-Cola",
+      "newPrice": 50,
+      "oldPrice": 25,
+      "discount": 50,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 0,
+      "images": [
+        "https://i.pinimg.com/474x/d9/90/b4/d990b4e3fafb7073f2ab7241e48aea0b.jpg",
+        "https://i.pinimg.com/474x/a9/d9/95/a9d995ccb2c0e92bf0ad874689ad3e19.jpg",
+        "https://i.pinimg.com/474x/c0/f8/d1/c0f8d19237a6a5ddcaf2f5faee1bb9c2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    },
+    {
+      "id": "1231wdfg2344",
+      "name": "Pepsi",
+      "newPrice": 30,
+      "storeName": "Tradly",
+      "storeId": "123321abc",
+      "categoryId": 0,
+      "images": [
+        "https://i.pinimg.com/474x/0f/63/94/0f639447141945b7f65a646e50203f79.jpg",
+        "https://i.pinimg.com/474x/5e/47/87/5e47877a6aa97ce7edfc294d61a7602f.jpg",
+        "https://i.pinimg.com/474x/05/2b/2b/052b2b6e44e1de3a4c919ec4cdb1f219.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis cras placerat diam ipsum ut. Nisi vel adipiscing massa bibendum diam. Suspendisse mattis dui maecenas duis mattis. Mattis aliquam at arcu, semper nunc, venenatis et pellentesque eu. Id tristique maecenas tristique habitasse eu elementum sed. Aliquam eget lacus, arcu, adipiscing eget feugiat in dolor sagittis." 
+    }
   ]
 }
