@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": "qwe6868", "email": "test@gmail.com", "password": "Abcd@1234" }
+    { "id": "qwe6868", "email": "test@gmail.com", "password": "Abcd@1234", "storeId": "34sdfead" }
   ],
   "new-products": [
     {
