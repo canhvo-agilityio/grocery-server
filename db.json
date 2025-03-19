@@ -201,8 +201,8 @@
       "id": "sdfe1212",
       "name": "Orange",
       "newPrice": 20,
-      "storeName": "Tradly",
-      "storeId": "123321abc",
+      "storeName": "Agility Store",
+      "storeId": "34sdfead",
       "categoryId": 3,
       "images": [
         "https://i.pinimg.com/474x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
@@ -231,8 +231,8 @@
       "id": "1231wdfg2344",
       "name": "Pepsi",
       "newPrice": 30,
-      "storeName": "Tradly",
-      "storeId": "123321abc",
+      "storeName": "Agility Store",
+      "storeId": "34sdfead",
       "categoryId": 0,
       "images": [
         "https://i.pinimg.com/474x/0f/63/94/0f639447141945b7f65a646e50203f79.jpg",
